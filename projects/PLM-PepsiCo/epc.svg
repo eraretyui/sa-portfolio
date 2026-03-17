@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Создано Microsoft Visio, экспорт SVG A3 Спецификация.svg Page-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="33.9586in" height="61.9215in"
 		viewBox="0 0 2445.02 4458.35" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+<rect width="100%" height="100%" fill="white"/>
 	<title>Basic Flowchart Template</title>
 	<desc>Create flowcharts, top-down diagrams, information tracking diagrams, process planning diagrams, and structure prediction diagrams. Contains connectors and links.</desc>
 	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false">
@@ -11,7 +10,6 @@
 			<v:ud v:nameU="msvConvertTheme"/>
 		</v:userDefs>
 	</v:documentProperties>
-
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:#ff00ff;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.48}
