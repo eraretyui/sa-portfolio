@@ -2,10 +2,10 @@
 
 Портфолио системного аналитика
 
-Контакты
-ТГ: @eraretyui
+**Контакты**
 
-Почта:eraretyui@gmail.com
+TG: @eraretyui<br>
+Почта: eraretyui@gmail.com
 
 ## Проекты
 
