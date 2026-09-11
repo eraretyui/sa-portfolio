@@ -1,5 +1,10 @@
 # sa-portfolio
+
 Портфолио системного аналитика
+
+Контакты
+ТГ: @eraretyui
+Почта:eraretyui@gmail.com
 
 ## Проекты
 
