@@ -4,7 +4,7 @@
 
 **Контакты**
 
-TG: @eraretyui<br>
+TG: @polinachervotkina<br>
 Почта: eraretyui@gmail.com
 
 ## Проекты
